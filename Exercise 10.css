@@ -1,0 +1,282 @@
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: Roboto, Arial;
+}
+.divAll{
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: solid;
+  border-color: rgb(218, 214, 214);
+}
+.divCat{
+  display: inline-block;
+  vertical-align: top;
+
+}
+.imgCat{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50px;
+}
+.divText{
+  display: inline-block;
+  margin-left: 15px;
+  vertical-align: top;
+  margin-right: 50px;
+}
+.divFollow{
+  display: inline-block;
+  margin-left: 60px;
+  vertical-align: top;
+  margin-top: 40px;
+}
+.pOliver{
+  font-family: Roboto, Arial;
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.pCat{
+  font-family: Roboto, Arail;
+  font-size: 14px;
+  color:gray;
+
+}
+.pPopular{
+  font-family: Roboto, Arail;
+  font-size: 14px;
+  color:gray;
+  margin-top: 10px;
+
+}
+.btFollow{
+  background-color: rgb(0, 204, 255);
+  color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  vertical-align: bottom;
+ 
+}
+.divPictures{
+  display: inline-block;
+  
+}
+.imgBlackCat{
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+  
+}
+.imgGoldCat{
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+
+}
+.imgWhiteCat{
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+ 
+}
+.div10b{
+  margin-top: 40px;
+}
+.divOliver{
+  vertical-align: top;
+  display:inline-block;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.divtheCat{
+  display: inline-block;
+}
+
+
+.divMimi{
+  margin-bottom: 20px;
+  vertical-align: top;
+  margin-bottom: 20px;
+}
+.divRex{
+  margin-bottom: 20px;
+  vertical-align: top;
+}
+.divButtons{
+  display: inline-block;
+}
+.divBlackCat{
+  margin-bottom: 20px;
+  vertical-align: top;
+  margin-top: 10px;
+}
+.divGoldCat{
+  margin-bottom: 20px;
+}
+.pPopular{
+  margin-bottom: 10px;
+}
+.pMimi{
+  margin-bottom: 10px;
+}
+.pSleepyCat{
+  margin-bottom: 10px;
+}
+.pRex{
+  margin-bottom: 10px; 
+}
+.pHappyBuldog{
+  margin-bottom: 10px; 
+}
+.divFollow3 {
+  margin-top: 80px;
+}
+.divFollow2{
+  margin-bottom: 60px;
+}
+.divFollow1{
+  margin-bottom: 70px;
+}
+.divSelf-Taught-Image{
+  display: inline-block;
+  vertical-align: top;
+}
+.divSelf-Taught-Text{
+  display: inline-block;
+  margin-left: 10px;
+}
+.divLanguage-Image{
+  display: inline-block;
+  vertical-align: top;
+}
+.divLanguage-Text{
+  display: inline-block;
+  margin-left: 10px;
+}
+.divFrontend-Image{
+  display: inline-block;
+  vertical-align: top;
+}
+.divFrontend-Text{
+  display: inline-block;
+  margin-left: 10px;
+}
+.divWeb{
+  display: inline-block;
+}
+.imgSelf-Taught-Image{
+  width: 200px;
+  
+}
+.imgLanguage-Image{
+  width: 200px;
+}
+.imgFrontend-Image{
+  width: 200px;
+}
+.div10c{
+  margin-top: 50px;
+}
+.divSelf-Taught, .divLanguage {
+  margin-bottom: 15px;
+}
+.pCS, .pChart, .pWeb{
+  width: 230px;
+  line-height: 20px;
+  font-size: 16px;
+  font-weight: 700;
+}
+.pSSD1, .pSSD2, .pSSD3, .pViews1, .pViews2, .pViews3{
+  font-size: 12px;
+  color: gray;
+}
+.divCS, .divChart, .divWeb{
+  margin-bottom: 15px;
+}
+.divSSD1, .divSSD2, .divSSD3{
+  margin-bottom: 10px;
+}
+.div10c{
+  margin-bottom: 40px;
+  
+}
+
+.divOliverPanel{
+  display: inline-block;
+  margin-right: 15px;
+  vertical-align: top;
+  border: solid;
+  border-color: rgb(240, 236, 236);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+.divMimiPanel{
+  display: inline-block;
+  margin-right: 15px;
+  vertical-align: top;
+  border: solid;
+  border-color: rgb(240, 236, 236);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+.divRexPanel{
+  display: inline-block;
+  margin-right: 15px;
+  vertical-align: top;
+  border: solid;
+  border-color: rgb(240, 236, 236);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+.divOliverminiImage, .divMimiminiImage, .divRexminiImage{
+  display: inline-block;
+  vertical-align: top;
+}
+.imgOliverminiImage, .imgMimiminiImage, .imgRexminiImage{
+  width: 30px;
+  height: 30px;
+  border-radius: 20px;
+  object-fit: cover;
+}
+.divOliverText, .divMimiText, .divRexText{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.pOliverText, .pMimiText, .pRexText{
+  font-size: 14px;
+  font-family: roboto,Arial;
+  font-weight: bold;
+}
+.divOliverminiText, .divMimiminiText, .divRexminiText{
+  display: inline-block;
+  margin-top: 10px;
+}
+.pOliverminiText, .pMimiminiText, .pRexminiText{
+  color: gray;
+  font-weight: 12px;
+}
+.divOliverminiImageText, .divMimiminiImageText, .divRexminiImageText{
+  margin-bottom: 10px;
+}
+.btAddFriend1,.btAddFriend2, .btAddFriend3{
+  background-color: rgb(61, 61, 238);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+.imgOliverImage, .imgMimiImage, .imgRexImage{
+  width: 150px;
+}
